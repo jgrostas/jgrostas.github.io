@@ -1,5 +1,5 @@
 layout: page
 title: "About"
-permalink: /blog/
+permalink: /about/
 
 While almost anyone can agree that television is primarily a source for entertainment, taking an analytical look can not only be interesting, but also beneficial as well. For example, t is nearly impossible for any one person to have seen every show ever made, so this could be as simple as providing a source for finding something new to watch that might be of interest after reading an analysis. Another possibility is the messages we take from pieces of media after we consume them. Television shows can often have lasting impacts long after the viewer has finished watching, depending if they found something to relate to, or if they were inspired by certain themes presented. These analyses will hopefully highlight potential lessons to be learned from various shows and taking a deeper look.
