@@ -1,11 +1,5 @@
 body {
   color: black;
-}
-
- div {
-   outline-color: grey;
-}
-
-div.a {
+  outline-color: grey;
   text-align: center;
 }
