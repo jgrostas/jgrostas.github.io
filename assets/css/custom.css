@@ -2,3 +2,6 @@ body {
   color: black;
 }
  div {outline-color: grey;}
+div.a {
+  text-align: center;
+}
