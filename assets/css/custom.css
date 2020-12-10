@@ -1,5 +1,9 @@
 body {
   color: black;
- border-style:solid;
- border-color: blue;
 }
+ <style>
+.borderexample {
+ border-style:solid;
+ border-color:#7b9fc7;
+}
+</style>
