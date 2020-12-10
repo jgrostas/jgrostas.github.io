@@ -5,6 +5,8 @@
 title: Television Analysis by Julia
 # Short bio or description (displayed in the header)
 description: A Blog
+theme: jekyll-theme-cayman
+
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
@@ -21,5 +23,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-cayman
