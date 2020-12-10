@@ -1,9 +1,4 @@
 body {
   color: black;
 }
- <style>
-.borderexample {
- border-style:solid;
- border-color:#7b9fc7;
-}
-</style>
+ div {outline-color: grey;}
